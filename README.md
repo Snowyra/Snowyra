@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://discords.com/bio/p/qccoes" title="Open Discord Profile" target="_blank" rel="noopener">![Discord API (Images)](https://lanyard.cnrad.dev/api/1103064134565765230)</a>
+<a href="https://discords.com/bio/p/qccoes" title="Open Discord Profile" target="_blank" rel="noopener">![Discord API (Images)](https://lanyard.cnrad.dev/api/1103064134565765230?animated=true&idleMessage=:Nothing%20sorry...%20(UwU)&hideTimestamp=true&hideDiscrim=true)</a>
